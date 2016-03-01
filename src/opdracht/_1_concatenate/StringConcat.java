@@ -1,4 +1,4 @@
-package opdracht.concatenate;
+package opdracht._1_concatenate;
 
 public class StringConcat {
     public static void main(String[] args) {

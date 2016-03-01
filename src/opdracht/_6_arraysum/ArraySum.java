@@ -1,4 +1,4 @@
-package opdracht.arraysum;
+package opdracht._6_arraysum;
 
 public class ArraySum {
     public static void main(String[] args) {

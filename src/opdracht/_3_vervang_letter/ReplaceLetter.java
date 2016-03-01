@@ -1,4 +1,4 @@
-package opdracht.replace;
+package opdracht._3_vervang_letter;
 
 public class ReplaceLetter {
     public static void main(String[] args) {
